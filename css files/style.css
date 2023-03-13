@@ -173,3 +173,20 @@ p {
     background-color:#f7c08a;
     letter-spacing: 0.05em;
 }
+
+
+/* Features on the down of the windows*/
+.box {
+    float: left;
+    width: 25%;
+    padding: 25px;
+    text-align:center;
+}
+
+.box i {
+    margin: 10px;
+}
+
+#second, #fourth {
+    background-color: #f7c08a;;
+}
